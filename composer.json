@@ -22,7 +22,7 @@
         "wpackagist-plugin/akismet":"4.1.4",
         "advanced-custom-fields/advanced-custom-fields-pro": "^6.0.3",
         
-        "wpackagist-plugin/contact-form-7":"5.6",
+        "wpackagist-plugin/contact-form-7":"5.6"
         
     },
     "require-dev": {
